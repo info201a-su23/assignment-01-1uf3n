@@ -16,10 +16,10 @@ git-commands.md
 mv Info201code INFO201
 
 # (4) Clone your assignment repository from GitHub to your machine/computer [1 point]
-
+git clone https://github.com/1uf3n/Info201code.git
 
 # (5) Using a *relative path*, change your directory to inside the repository you just cloned [1 point]
-
+cd my-repo
 
 # (6)  What is the *absolute path* of the image file "covid-example-2.png"? (You can answer the absolute path on your own computer, or the absolute path only within the GitHub repository) [1 points]
 
