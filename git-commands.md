@@ -8,10 +8,6 @@ pwd
 
 # (2) List the files in your current directory [1 point]
 ls
-images
-README.md
-cheatsheet.md
-git-commands.md
 
 # (3) Change your directory to a folder in which you do work for this class (if you haven't created such a folder, please do so now — perhaps titled "INFO201") [1 point]
 cd <INFO201>
