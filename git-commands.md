@@ -10,10 +10,10 @@ pwd
 ls
 
 # (3) Change your directory to a folder in which you do work for this class (if you haven't created such a folder, please do so now — perhaps titled "INFO201") [1 point]
-cd <INFO201>
+cd 'INFO201'
 
 # (4) Clone your assignment repository from GitHub to your machine/computer [1 point]
-git clone <REPO_https://github.com/1uf3n/Info201code.git>
+git clone https://github.com/1uf3n/Info201code.git
 
 # (5) Using a *relative path*, change your directory to inside the repository you just cloned [1 point]
 cd ..  
