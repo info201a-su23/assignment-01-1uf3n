@@ -16,23 +16,19 @@ cd 'INFO201'
 git clone https://github.com/1uf3n/Info201code.git
 
 # (5) Using a *relative path*, change your directory to inside the repository you just cloned [1 point]
-cd ..  
+cd assignment-01-1uf3n
 
 # (6)  What is the *absolute path* of the image file "covid-example-2.png"? (You can answer the absolute path on your own computer, or the absolute path only within the GitHub repository) [1 points]
 /Users/shuaigedemac-pro/Documents/Project/covid-example-2.png
 
 # (7) Add all of the changes that you've made to this file with git [1 point]
-cd /path/to/your/repository
 git add .
-git git commit -m "<Add changes to file>"
 
 # (8) Commit these changes, and include a *descriptive message* [2 points]
-cd /path/to/your/repository
 git add .
-git git commit -m "<Add descriptive message explaining the changes>"
+git commit -m "Add descriptive message explaining the changes."
 
 # (9) Finally, push your changes to GitHub [1 point]
-cd /path/to/your/repository
 git push
 
 ```
