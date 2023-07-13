@@ -25,7 +25,7 @@ cd assignment-01-1uf3n
 git add .
 
 # (8) Commit these changes, and include a *descriptive message* [2 points]
-git commit -m "Add descriptive message explaining the changes."
+git commit -m "Update"
 
 # (9) Finally, push your changes to GitHub [1 point]
 git push
